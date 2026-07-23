@@ -1,0 +1,6 @@
+{
+  "name": "typing-app",
+  "version": "1.0.0",
+  "buildCommand": "npm run build",
+  "outputDirectory": "./dist"
+}

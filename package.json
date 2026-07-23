@@ -1,8 +1,8 @@
 {
   "name": "typing-app",
   "version": "1.0.0",
-  "description": "Modern Typing Practice App with Glassmorphism UI",
-  "type": "module",
+  "description": "Modern Typing Practice App",
+  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
