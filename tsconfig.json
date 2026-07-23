@@ -9,11 +9,10 @@
     "allowSyntheticDefaultImports": true,
     "strict": true,
     "noEmit": true,
-    "moduleResolution": "bundler",
+    "moduleResolution": "node",
     "jsx": "react-jsx",
     "resolveJsonModule": true,
-    "types": ["vite/client", "node"],
-    "allowImportingTsExtensions": true
+    "types": ["vite/client", "node"]
   },
   "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]
