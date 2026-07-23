@@ -9,7 +9,9 @@
     "allowSyntheticDefaultImports": true,
     "strict": true,
     "noEmit": true,
-    "moduleResolution": "bundler"
+    "moduleResolution": "bundler",
+    "jsx": "react-jsx",
+    "resolveJsonModule": true
   },
   "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]
